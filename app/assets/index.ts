@@ -4,7 +4,7 @@ import img3 from "./images/img3.jpg";
 import Batman from "./images/Batman.png";
 import traveloka from "./images/traveloka.jpg";
 import booking from "./images/booking-logo.png";
-import airbnb from "./images/airbnb-logo.png";
+import airbnb from "./images/logo_airBnb.png";
 import Opendoor from "./images/Opendoor.png";
 import firstImage from "./images/FirstImage.jpg";
 import secondImage from "./images/secondImage.jpg";
