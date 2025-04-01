@@ -18,10 +18,9 @@ const SectionWrapper = ({ Children, id }: TSectionWrapperProps) =>
         id={id}
         className={` mx-auto max-w-7xl relative z-0 ${style.padding}`}
       >
-        <span className="hash-span" id={id} >
-                              &nbsp;
-                              &nbsp;
-                    </span>
+        <span className="hash-span" id={id}>
+          &nbsp; &nbsp;
+        </span>
         <Children />
       </motion.section>
     );
