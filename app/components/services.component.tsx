@@ -10,7 +10,7 @@ const Services = () => {
       </h2>
 
       <div className="flex flex-col gap-3 mt-6">
-        <h1 className="text-black font-outfit font-normal text-5xl leading-tight">
+        <h1 className="text-black font-outfit font-light text-5xl leading-tight">
           Explore endless options with our services{" "}
         </h1>
         <p className="text-gray-500 font-outfitsubtext font-normal text-xl w-full sm:w-[50%] leading-tight">
