@@ -6,6 +6,7 @@ import LogoTickerComponent from "~/components/LogoTicker.component";
 import Navbar from "~/components/navbar.component";
 import PackageComponent from "~/components/package.component";
 import ServicesComponent from "~/components/services.component";
+import TestimonialComponent from "~/components/Testimonial.component"
 
 export const meta: MetaFunction = () => {
   return [
@@ -21,8 +22,9 @@ export default function Index() {
       <Hero />
       <AboutComponent />
       <ServicesComponent />
-      <LogoTickerComponent/>
+      <LogoTickerComponent />
       <FAQsComponent />
+      <TestimonialComponent />
       {/* <PackageComponent /> */}
     </div>
   );
